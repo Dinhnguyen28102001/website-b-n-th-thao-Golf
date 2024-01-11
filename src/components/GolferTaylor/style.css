@@ -1,0 +1,40 @@
+.container_v{
+    margin: 20px;
+}
+img.image_item {
+    width: 95%;
+    height: 352px;
+}
+.show {
+    display: block;
+}
+.visible {
+    display: none;
+}
+.box_iframe {
+    margin-left: 260px;
+    margin-top: 20px;
+    width: 960px;
+    height: 540px;
+    background-color:black;
+}
+.box_nav{
+    width: 90%;
+    color: black;
+    cursor: pointer;
+}
+iframe.fame{
+    width: 960px;
+    height: 540px;
+}
+p.title_news {
+    margin-top: 150px;
+    padding: 0 10px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}
+
+.box_nav p{
+    padding-right: 5px;
+}
